@@ -1,0 +1,6 @@
+.divider {
+    border-bottom: 1px solid rgb(255, 255, 255); /* Add border style */
+    margin-top: 1rem; /* Add margin-top for spacing */
+    margin-bottom: 1rem; /* Add margin-bottom for spacing */
+    width: 80px;
+  }
